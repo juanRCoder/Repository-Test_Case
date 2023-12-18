@@ -1,7 +1,7 @@
 # Project Title
 
 <center>
-![Texto alternativo de imagen](./background-Test.jpg)
+<p>![Texto alternativo de imagen](./background-Test.jpg)</p>
 </center>
 
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita autem culpa aperiam unde quasi quidem consequatur nihil impedit delectus blanditiis tempora beatae, vel sapiente, saepe quod quaerat soluta enim repellat Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita autem culpa aperiam unde quasi quidem consequatur nihil impedit delectus blanditiis tempora beatae, vel sapiente, saepe quod quaerat soluta enim repellat.
