@@ -1,9 +1,10 @@
 # Project Title
-<div align="center">
-![Texto alternativo de imagen](./background-Test.jpg)
-</div>
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita autem culpa aperiam unde quasi quidem consequatur nihil impedit delectus blanditiis tempora beatae, vel sapiente, saepe quod quaerat soluta enim repellat Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita autem culpa aperiam unde quasi quidem consequatur nihil impedit delectus blanditiis tempora beatae, vel sapiente, saepe quod quaerat soluta enim repellat.
 
+<center>
+![Texto alternativo de imagen](./background-Test.jpg)
+</center>
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita autem culpa aperiam unde quasi quidem consequatur nihil impedit delectus blanditiis tempora beatae, vel sapiente, saepe quod quaerat soluta enim repellat Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita autem culpa aperiam unde quasi quidem consequatur nihil impedit delectus blanditiis tempora beatae, vel sapiente, saepe quod quaerat soluta enim repellat.
 
 
 
