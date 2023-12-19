@@ -122,5 +122,12 @@ You must meet certain requirements, you must first have a `node.js`.
 
 ## APIs Provided
 These client-provided APIs were used for the project.
-1. Coffee Api: [https://example.co](https://example.com)
+1. Coffee Api: [name-Api](https://example.com)
+2. Coffee2 Api: [name-Api2](https://example.com)
 
+
+## Contact
+
+Your Name - [[@your_Instagram](https://twitter.com/your_username)] -  [[@your_LinkedIn](https://twitter.com/your_username)]
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
