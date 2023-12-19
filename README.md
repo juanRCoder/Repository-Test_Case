@@ -93,8 +93,13 @@ For these projects, the following tools, frameworks/library, and development env
 
 ## Getting Started
 ### Prerequisites 
-* To install and test locally, you must have `node` and `npm` installed.
-* Una vez instalado lo anterior, instalar el entorno de desarrollo `vite`.
+* To install and test locally, you must have `node`.
+* Install `npm`. 
+*  ```sh
+   npm install npm@latest -g
+  ```
+
+* Install `vite`.
   ```sh
   npm install -g vite
   ```
