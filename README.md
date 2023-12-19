@@ -154,7 +154,7 @@ The resources provided by the client were as follows:
 3. icon-plus: [name-Api](url-repository)
 4. icon-star: [name-Api](https://example.com)
 ### Fonts:
-Link: [Google-Font]([https://example.com](https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap)) 
+Link: [https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap](https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap)
 1. WorkSans-Regular-wght@400
 2. WorkSans-SemiBold-wght@600
 3. WorkSans-Bold-wght@700
