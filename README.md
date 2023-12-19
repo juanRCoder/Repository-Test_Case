@@ -144,7 +144,7 @@ El diagrama que diseñé utilizando Lucidchart presenta una representación visu
 <!-- Texto para rellenar: 
 "El diagrama del proyecto que diseñé utilizando Lucidchart presenta una representación visual detallada y estructurada de la arquitectura y componentes clave del sistema. En este diagrama, se pueden apreciar claramente las diferentes capas del proyecto, desde la interfaz de usuario hasta la base de datos, mostrando las relaciones y la interacción entre cada elemento. La visualización proporciona una visión general clara y concisa del flujo de trabajo y la lógica detrás del desarrollo del proyecto."  -->
 <div align="center">
-   <img src="./diagramProject.png" alt="Logo" width="800" height="400" >
+   <img src="./diagramProject.png" alt="Logo" width="600" height="350" >
 </div>
 
 ## APIs Provided
