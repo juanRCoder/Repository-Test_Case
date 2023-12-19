@@ -91,8 +91,8 @@ For these projects, the following tools, frameworks/library, and development env
 ## Responsive Design (mobile & tablet)
 These are the project's designs optimized for both mobile and tablet viewing, complying with different screen resolutions and maintaining a consistent user experience across different screen sizes.
 <div align="center">
-  <img src="./background-Test.jpg" alt="Logo" width="500" height="400" >
-  <img src="./background-Test.jpg" alt="Logo" width="500" height="400" > 
+  <img src="./background_mobile_FAQ_accordion.png" alt="Logo" width="500" height="400" >
+  <img src="./background_table_FAQ_accordion.png" alt="Logo" width="500" height="400" > 
 </div>
 
 ## Getting Started
