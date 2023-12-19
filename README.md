@@ -148,12 +148,12 @@ El diagrama que diseñé utilizando Lucidchart presenta una representación visu
 
 ## Resources Provided
 The resources provided by the client were as follows:
-#### Files SVG:
+### Files SVG:
 1. background-pattern-desktop: [name-Api](url-repository)
 2. icon-minus: [name-Api](url-repository)
 3. icon-plus: [name-Api](url-repository)
 4. icon-star: [name-Api](https://example.com)
-#### Fonts:
+### Fonts:
 Link: [Google-Font]([https://example.com](https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap)) 
 1. WorkSans-Regular-wght@400
 2. WorkSans-SemiBold-wght@600
