@@ -20,9 +20,9 @@ For these projects, the following tools, frameworks/library, and development env
 | <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />  | Valor 17  | <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  | Valor 19  | Valor 20  |
 | Valor 21  | Valor 22  | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  | Valor 24  | Valor 25  |
 | Valor 26  | Valor 27  | <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>  | Valor 29  | Valor 30  |
-| Valor 31  | Valor 32  | Valor 33  | Valor 34  | Valor 35  |
-| Valor 36  | Valor 37  | Valor 38  | Valor 39  | Valor 40  |
-| Valor 41  | Valor 42  | Valor 43  | Valor 44  | Valor 45  |
+| Valor 31  | Valor 32  | <img src= "https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">   | Valor 34  | Valor 35  |
+| Valor 36  | Valor 37  | <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />  | Valor 39  | Valor 40  |
+| Valor 41  | Valor 42  | <img src="https://img.shields.io/badge/Material%20Ui-007FFF?style=for-the-badge&logo=mui&logoColor=white" />  | Valor 44  | Valor 45  |
 | Valor 46  | Valor 47  | Valor 48  | Valor 49  | Valor 50  |
 
 
