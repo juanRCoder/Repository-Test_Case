@@ -1,5 +1,5 @@
-<h1 align='center'>
-  Title Project
+<div align='center'>
+ <h1>Title Project</h1>
 
   <img src="./background-Test.jpg" alt="Logo" width="1000" height="400">
 
@@ -8,7 +8,7 @@
 </p>
 
 
-</h1>
+</div>
 
 
 
