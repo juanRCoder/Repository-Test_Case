@@ -161,7 +161,7 @@ Link: [https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&displ
 
 
 ## Contact
-juanRCoder - [[@juanrcoder](https://www.instagram.com/juanrcoder/)] -  [[@juan Ramirez](https://www.linkedin.com/in/juan-ramirez-490b84271/)]
+juanRCoder - (Instagram)[[@juanrcoder](https://www.instagram.com/juanrcoder/)] -  (LinkedIn)[[@juan Ramirez](https://www.linkedin.com/in/juan-ramirez-490b84271/)]
 
 Project Link: [https://juanrcoder.github.io/Project-FAQ-accordion/](https://juanrcoder.github.io/Project-FAQ-accordion/)
 
