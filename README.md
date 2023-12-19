@@ -14,5 +14,5 @@
 
 ## Built With
 For these projects, the following tools, frameworks, and development environments were used:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></li>
 
