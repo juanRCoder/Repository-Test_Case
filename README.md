@@ -91,4 +91,10 @@ For these projects, the following tools, frameworks/library, and development env
 -  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 -  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
 
-- 
+## Getting Started
+### Prerequisites 
+* To install and test locally, you must have `node` and `npm` installed.
+* Una vez instalado lo anterior, instalar el entorno de desarrollo `vite`.
+  ```sh
+  npm install -g vite
+  ```
