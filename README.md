@@ -93,13 +93,34 @@ For these projects, the following tools, frameworks/library, and development env
 
 ## Getting Started
 ### Prerequisites 
-* To install and test locally, you must have `node`.
+You must meet certain requirements, you must first have a `node.js`.
 * Install `npm`. 
-*  ```sh
+  ```sh
    npm install npm@latest -g
-  ```
-
+   ```
 * Install `vite`.
   ```sh
-  npm install -g vite
-  ```
+   npm install -g vite
+   ```
+### Installation
+- To deploy your application on-premises, you must follow the steps below.
+* Clone the repo
+  ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+* Install NPM packages
+  ```sh
+   npm install
+   ```
+* View the app
+  ```sh
+  // mode development
+   npm run dev
+  // final mode
+   npm run start
+   ```
+
+## APIs Provided
+These client-provided APIs were used for the project.
+1. Coffee Api: [https://example.co](https://example.com)
+
