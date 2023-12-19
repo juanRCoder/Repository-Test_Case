@@ -5,6 +5,11 @@
 <p align='justify'>
  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita autem culpa aperiam unde quasi quidem consequatur nihil impedit delectus blanditiis tempora beatae, vel sapiente, saepe  quod quaerat soluta enim repellat Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita autem culpa aperiam unde quasi quidem consequatur nihil impedit delectus blanditiis  tempora beatae, vel sapiente, saepe quod quaerat soluta enim repellat.
 </p>
+ <style>
+  img {
+    margin-bottom: 20px;
+  }
+</style>
 </div>
 
 
