@@ -89,7 +89,11 @@ For these projects, the following tools, frameworks/library, and development env
 -  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
 
 ## Responsive Design (mobile & tablet)
-
+These are the project's designs optimized for both mobile and tablet viewing, complying with different screen resolutions and maintaining a consistent user experience across different screen sizes.
+<div align="center">
+  <img src="./background-Test.jpg" alt="Logo" width="800" height="400" >
+  <img src="./background-Test.jpg" alt="Logo" width="800" height="400" > 
+</div>
 
 ## Getting Started
 ### Prerequisites 
