@@ -1,6 +1,6 @@
 <div align='center'>
  <h1>Title Project</h1>
-  <img src="./background-Test.jpg" alt="Logo" width="1000" height="400">
+  <img src="./background-Test.jpg" alt="Logo" width="800" height="400">
 <p align='justify'>
  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita autem culpa aperiam unde quasi quidem consequatur nihil impedit delectus blanditiis tempora beatae, vel sapiente, saepe  quod quaerat soluta enim repellat Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita autem culpa aperiam unde quasi quidem consequatur nihil impedit delectus blanditiis  tempora beatae, vel sapiente, saepe quod quaerat soluta enim repellat.
 </p>
