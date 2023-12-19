@@ -12,10 +12,11 @@
 ## Built With
 For these projects, the following tools, frameworks/library, and development environments were used:
 
-| <h3>Lenguajes<h3> | <h4>IDE</h4> |
+| <h3>Lenguajes<h3> | <h3>IDE</h3> |
 | ------------ | ------------ |
 | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />    | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />    |
 | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />    | <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />    |
+
 
 ### 👩‍💻 Languages
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
