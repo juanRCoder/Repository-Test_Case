@@ -9,9 +9,6 @@
 
 </div>
 
-
-
-
 ## Built With
 For these projects, the following tools, frameworks/library, and development environments were used:
 
@@ -91,6 +88,9 @@ For these projects, the following tools, frameworks/library, and development env
 -  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 -  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
 
+## Responsive Design (mobile & tablet)
+
+
 ## Getting Started
 ### Prerequisites 
 You must meet certain requirements, you must first have a `node.js`.
@@ -131,3 +131,6 @@ These client-provided APIs were used for the project.
 Your Name - [[@your_Instagram](https://twitter.com/your_username)] -  [[@your_LinkedIn](https://twitter.com/your_username)]
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+
+
