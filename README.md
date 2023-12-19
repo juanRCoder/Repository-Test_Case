@@ -13,7 +13,7 @@
 For these projects, the following tools, frameworks/library, and development environments were used:
 
 | <h3>Lenguajes<h3> | <h3>IDE<h3> | <h3>Frameworks & Library<h3> | <h3>Database<h3> | <h3>Design & Cloud<h3> |
-| --------- | --------- | --------- | --------- | --------- |
+| :--------: | :--------: | :--------: | :--------: | :--------: |
 | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />   | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />   | <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />   | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />   | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />   |
 | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />   | Valor 7   | <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>   | Valor 9   | Valor 10  |
 | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  | Valor 12  | <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />  | Valor 14  | Valor 15  |
